@@ -1,6 +1,6 @@
-# modularyzacja
-Modularyzacja oprogramowania, Standaryzacja-> Modularyzacja -> Automatyzacja
+# [modularyzacja | www](https://www.modularyzacja.pl/)
 
+Modularyzacja oprogramowania, 
 
   Standarisation -> Modularisation -> Automatisation
   Standaryzacja -> Modularyzacja -> Automatyzacja
