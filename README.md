@@ -4,9 +4,9 @@
 
 + [modularyzacja blog](https://blog.modularyzacja.pl/)
 
-  Standarisation -> Modularisation -> Automatisation
+    Standarisation -> Modularisation -> Automatisation
   
-  Standaryzacja -> Modularyzacja -> Automatyzacja
+    Standaryzacja -> Modularyzacja -> Automatyzacja
 
 ## Wstęp
 
