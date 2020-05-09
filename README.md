@@ -5,6 +5,7 @@
 + [modularyzacja | Blog](https://blog.modularyzacja.pl/)
 
   Standarisation -> Modularisation -> Automatisation
+  
   Standaryzacja -> Modularyzacja -> Automatyzacja
 
 ## Wstęp
