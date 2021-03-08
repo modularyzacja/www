@@ -8,7 +8,11 @@
   
     Standaryzacja -> Modularyzacja -> Automatyzacja
 
+
 ## Wstęp
+https://modularyzacja.github.io/www/
+
+[index](https://modularyzacja.github.io/www/index.html)
 
 Modularyzacja znajduje się pomiędzy standaryzacją a automatyzacją.
 te procesy się ze sobą łączą, są niezbędne do uzyskania dobrej efektywności wytwarzania oprogramowania.
