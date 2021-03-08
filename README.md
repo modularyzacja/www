@@ -1,3 +1,5 @@
+![hypermodularity.png](hypermodularity-horizon.png)
+
 # Modularyzacja oprogramowania
 
 + [modularyzacja www](https://www.modularyzacja.pl/)
@@ -77,6 +79,10 @@ W ten sposób skupiamy się na modularyzacji i pozwalamay na re-użycie kodu, na
 
 + Nie potrzbujesz do tego marketplace, bo każda strona www znajduje się pod jakąś domeną. 
 
+## Przykład
+przykładowo, tutaj są dwie strony www, dwa moduły na subdomenach
+które mając konfigurację w pliku json, mogą łatwo pobrać zawartość modułów użytych do budowy strony i zrobić kopię lub dodać pewną funkcjonalność z innej strony
+![hypermodularity-example.png](hypermodularity-example.png)
 
 # paczki npmjs
 
