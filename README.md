@@ -60,18 +60,20 @@ Pozwala na tworzenie modularnej strony na podstawie zawartości innych stron, be
 
 jLoads ładuje po podaniu adresu to do odpowiedniego miejsca na stronie WWW.
 
+## Standardy
+
 Wszystkie standardy istnieją, dlatego z dnia na dzień można zrobić ewolucję poprzez modularyzację, temat nie jest nowy, ale zmierzyłem się z nim i nie wiem co dalej z tym zrobić, aby nie stracić już włożonego wysiłku.
 
 To o czym piszę, pozwala na oszczędności czasu wynikającą z prototypowania na podstawie gotowych klocków i do tego bez marketplace!!! każdy już teraz może partycypować w tym
 
 
-# Jak to działa?
+## Jak to działa?
 
 nic co wychodzi poza to co jest, to kwestia sposobu użycia a nie tworzenia nowej technologii. Biblioteka jLoads tylko pomaga skupić się na ładowaniu i routowaniu content-u w odpowiednie miejsce na stronie www. HTTP + JS, nic ponadto.
 
 Tradycyjnie ładujemy elementy strony poprzez tagi: script, link, itd. Tutaj tylko definiujemy plik JSON, który jest definicją Twojej strony i który jednocześnie jest jej mapą, służąc innym użytkownikom internetu, którzy moga korzystać z tego co Ty już zbudowałeś (kwestia użycia licencji).
 
-Co jest w tym nowego?
+## Co jest w tym nowego?
 
 To, że każda strona zamiast zawierać już zrenederoweany kod HTML jest opisana plikiem JSON z minimalną ilością HTML.
 
@@ -80,8 +82,14 @@ W ten sposób skupiamy się na modularyzacji i pozwalamay na re-użycie kodu, na
 + Nie potrzbujesz do tego marketplace, bo każda strona www znajduje się pod jakąś domeną. 
 
 ## Przykład
-przykładowo, tutaj są dwie strony www, dwa moduły na subdomenach
-które mając konfigurację w pliku json, mogą łatwo pobrać zawartość modułów użytych do budowy strony i zrobić kopię lub dodać pewną funkcjonalność z innej strony
+przykładowo, tutaj są:
++ dwie strony www
++ moduły na subdomenach
+ 
+które mając konfigurację w pliku json.
+
+Mogą łatwo pobrać zawartość modułów użytych do budowy strony poprzez jLoads (+module.json) i zrobić kopię lub dodać pewną funkcjonalność z innej strony
+
 ![hypermodularity-example.png](hypermodularity-example.png)
 
 # paczki npmjs
