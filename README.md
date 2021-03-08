@@ -16,24 +16,32 @@ https://modularyzacja.github.io/www/
 
 [index](https://modularyzacja.github.io/www/index.html)
 
-Modularyzacja znajduje się pomiędzy standaryzacją a automatyzacją.
-te procesy się ze sobą łączą, są niezbędne do uzyskania dobrej efektywności wytwarzania oprogramowania.
+    Modularisation -> Standardisation -> Specialisation -> Automation -> Continuous Improvement
+
+Modularyzacja znajduje się na samym początku z powodu jej abstrakcyjnej funkcji, która każe dzielić w celu ustandaryzowania i wyspecjalizowania danych.
+
+Powyższe procesy należą do łańcucha wytwarzania i doskonalenia oprogramowania.
 
 
-Stworzyłem narzędzie (biliotekę) do prototypowania hashtag#jloads - javascript router and loader.
-Idea nie jest nowa, ale implementacja interesująca, na tyle, że jest udostępniona wszystkim w internecie.
+## Dlaczego?
 
-Z drugiej zaś strony zastanawiam się jak się odnaleźć w sytuacji, kiedy po dekadzie ma się w końcu sensowy pomysł do zastosowania globalnie, dla każdego, kto umie tworzyć strony www na poziomie szkoły podstawowej.
+Dlaczego stworzyłem narzędzie (biliotekę) do prototypowania jLoads?
 
+    jLoads to javascript router and loader.
 
+Idea nie jest nowa, ale implementacja interesująca, na tyle, że jest udostępniona wszystkim w internecie, moim zdaniem to sensowy pomysł do zastosowania globalnie, dla każdego, kto umie tworzyć strony www na poziomie szkoły podstawowej.
 
-Błyskawiczne i zwinne dostarczanie rezultatów.
++ Błyskawiczne i zwinne dostarczanie rezultatów.
 
-#Modularyzacja w programowaniu to dość rzadkie zjawisko, z reguły delegowana jest ona środowisku, framework'owi, bibliotekom.
+# Modularyzacja
 
-Można inaczej, taniej, szybciej?
+Modularyzacja w programowaniu to dość rzadkie zjawisko, z reguły delegowana jest ona środowisku, framework'owi, bibliotekom.
 
-Modularyzacja pozwala na oszczędności, zwłaszcza w binzesach, gdzie prototypowanie jest głównym zadaniem we współpracy biznesowej.
+Jednak można inaczej ...
+
+## Zastosowanie
+
+Modularyzacja pozwala na oszczędności, zwłaszcza w binzesach, gdzie kluczowe jest prototypowanie.
 
 Również Startup-y potrzebują szybko dostarczać widoczne rezultaty dla klientów i inwestorów, bez wchodzenia w detale.
 
