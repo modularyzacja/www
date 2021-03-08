@@ -61,3 +61,14 @@ jLoads ładuje po podaniu adresu to do odpowiedniego miejsca na stronie WWW.
 Wszystkie standardy istnieją, dlatego z dnia na dzień można zrobić ewolucję poprzez modularyzację, temat nie jest nowy, ale zmierzyłem się z nim i nie wiem co dalej z tym zrobić, aby nie stracić już włożonego wysiłku.
 
 To o czym piszę, pozwala na oszczędności czasu wynikającą z prototypowania na podstawie gotowych klocków i do tego bez marketplace!!! każdy już teraz może partycypować w tym
+
+
+# Timing
+
+Ciekawa jest ilość informacji na temat modularyzacji, 
+hashtag #modularization to pozwala też na ocenienie świadomośći ludzi jak teraz.
+Jest to kluczowe i jak bardziej niż wcześniej można to zaoferować. 
+
+to #TIMINIG jest najważniejszy i to jest czas, gdy jeszcze frameworki frontendowe świętują triumfy,
+jednak za kilka lat będą mniej użyteczne, gdyż architektura obecnie jest królową zmian a nie frameworki
+
