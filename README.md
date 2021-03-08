@@ -109,10 +109,11 @@ W głowie mam znacznie wykraczające poza to rozwiązanie po stronie serwera, kt
 
 # Timing
 
-Ciekawa jest ilość informacji na temat modularyzacji, 
-hashtag #modularization to pozwala też na ocenienie świadomośći ludzi jak teraz.
-Jest to kluczowe i jak bardziej niż wcześniej można to zaoferować. 
+ilość informacji na temat modularyzacji jest skąpa.
 
-to #TIMINIG jest najważniejszy i to jest czas, gdy jeszcze frameworki frontendowe świętują triumfy,
-jednak za kilka lat będą mniej użyteczne, gdyż architektura obecnie jest królową zmian a nie frameworki
+Hashtag #modularization nie jest popularny co oznacza niską świadomość.
+
+W przypadku innowacji to nie ona sama a #TIMINIG decyduje o sukcesie.
+
+Obecnie jest czas, gdy jeszcze frameworki frontendowe świętują triumfy, jednak za kilka lat będą mniej użyteczne, gdyż architektura obecnie jest królową zmian a nie frameworki.
 
