@@ -43,4 +43,21 @@ Rozwiązanie, które obecnie działa w oparciu o modularyzację dla aplikacji pi
 
 * #javascript #php #python #bash
 
-#modularyzacja
+
+# modularyzacja i jloads
+
+tutaj jest dokumentacja https://docs.jloads.com/
+
+to tylko jeden z etapów modularyzacji. 
+
+W praktyce wygląda to tak, że stworzysz sobie domenę/subdomenę na której masz treść w formatach używanych na front-endzie (JS/html/css/svg/json)
+
+Każdy kto będzie chciał wykorzystać Twoją treść, np gotowy formularz, czy aplikację doda tylko adres Twojej strony bądź konkretne adresy domen modułów z których się składa.
+
+Pozwala na tworzenie modularnej strony na podstawie zawartości innych stron, bez użycia iframe, itd.
+
+jLoads ładuje po podaniu adresu to do odpowiedniego miejsca na stronie WWW.
+
+Wszystkie standardy istnieją, dlatego z dnia na dzień można zrobić ewolucję poprzez modularyzację, temat nie jest nowy, ale zmierzyłem się z nim i nie wiem co dalej z tym zrobić, aby nie stracić już włożonego wysiłku.
+
+To o czym piszę, pozwala na oszczędności czasu wynikającą z prototypowania na podstawie gotowych klocków i do tego bez marketplace!!! każdy już teraz może partycypować w tym
