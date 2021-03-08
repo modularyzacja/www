@@ -6,10 +6,7 @@
 
 + [modularyzacja blog](https://blog.modularyzacja.pl/)
 
-    Standarisation -> Modularisation -> Automatisation
-  
-    Standaryzacja -> Modularyzacja -> Automatyzacja
-
+    
 
 ## Wstęp
 https://modularyzacja.github.io/www/
