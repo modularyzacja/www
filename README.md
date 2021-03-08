@@ -78,6 +78,11 @@ W ten sposób skupiamy się na modularyzacji i pozwalamay na re-użycie kodu, na
 + Nie potrzbujesz do tego marketplace, bo każda strona www znajduje się pod jakąś domeną. 
 
 
+# paczki npmjs
+
+Obecnie aby podzielić się jakimś modułem musisz korzystać np z npmjs, skąd pobierasz paczki JS, ja poszedłem dalej i zamiast budować marketplace do paczek, pozwalam innym bezpośrednio peer to peer używać swojego kodu.
+
+Nie musisz być rasowym programistą by to zrobić, bo idea polega na podaniu url i odbywa się bezpośrednio w przeglądarce, dlatego obawiam się, że jak już kilka osób z kontaktów na linkedin zrozumie jak to działa, podzielą się z innymi, to będzie lawina i nagle stanie się to bardzo popularne. W głowie mam znacznie wykraczające poza to rozwiązanie po stronie serwera, które będzie zawierało repozytorium z wersjonowaniem danych i kodu, ale na to przyjdzie czas....
 
 # Timing
 
