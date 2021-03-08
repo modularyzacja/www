@@ -1,4 +1,4 @@
-![hypermodularity.png](hypermodularity-horizon.png)
+![hypermodularity](hyper-modularity-horizon.png)
 
 # Modularyzacja oprogramowania
 
