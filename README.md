@@ -63,6 +63,22 @@ Wszystkie standardy istnieją, dlatego z dnia na dzień można zrobić ewolucję
 To o czym piszę, pozwala na oszczędności czasu wynikającą z prototypowania na podstawie gotowych klocków i do tego bez marketplace!!! każdy już teraz może partycypować w tym
 
 
+# Jak to działa?
+
+nic co wychodzi poza to co jest, to kwestia sposobu użycia a nie tworzenia nowej technologii. Biblioteka jLoads tylko pomaga skupić się na ładowaniu i routowaniu content-u w odpowiednie miejsce na stronie www. HTTP + JS, nic ponadto.
+
+Tradycyjnie ładujemy elementy strony poprzez tagi: script, link, itd. Tutaj tylko definiujemy plik JSON, który jest definicją Twojej strony i który jednocześnie jest jej mapą, służąc innym użytkownikom internetu, którzy moga korzystać z tego co Ty już zbudowałeś (kwestia użycia licencji).
+
+Co jest w tym nowego?
+
+To, że każda strona zamiast zawierać już zrenederoweany kod HTML jest opisana plikiem JSON z minimalną ilością HTML.
+
+W ten sposób skupiamy się na modularyzacji i pozwalamay na re-użycie kodu, napisanego w dodatku przez innych.
+
++ Nie potrzbujesz do tego marketplace, bo każda strona www znajduje się pod jakąś domeną. 
+
+
+
 # Timing
 
 Ciekawa jest ilość informacji na temat modularyzacji, 
