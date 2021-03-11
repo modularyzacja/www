@@ -19,8 +19,14 @@ Modularyzacja znajduje się na samym początku z powodu jej abstrakcyjnej funkcj
 
 Powyższe procesy należą do łańcucha wytwarzania i doskonalenia oprogramowania.
 
+## Dlaczego Modularyzacja?
 
-## Dlaczego?
+
+Dziękuję, napisałem już wiadmość, ten temat jest bardzo niszowy, ale kluczowy w procesie tworzenie oprogramowania, gdyż po zdefiniowaniu celów biznesowych modularyzacja pozwala na szybki wzrost, osiąganie lepszych rezultatów przy tym samym wysiłku.
+Brak modularyzacji to strata czasu, bo nieświadomie i tak kazdy stara się modularyzować, ale trzeba wiedzieć jaką metodologię przyjąć aby nie refaktoryzwać w nieskończoność.
+
+
+## Dlaczego jLoads?
 
 Dlaczego stworzyłem narzędzie (biliotekę) do prototypowania jLoads?
 
